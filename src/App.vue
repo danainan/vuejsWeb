@@ -2,13 +2,10 @@
   import navbar from './components/navbar.vue';
 </script>
 <template>
-  <navbar></navbar>
-  <div>
-    <h1 class="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-    <button class="btn btn-active btn-primary">Primary</button>
-  </div>
+  <navbar/>
+  <h1>adad</h1>
+  
+  
 </template>
 
 
